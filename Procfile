@@ -1,1 +1,1 @@
-worker: python Tradeeeyyy.V2.2.py
+worker: python Tradeeeyyy.V3.py
