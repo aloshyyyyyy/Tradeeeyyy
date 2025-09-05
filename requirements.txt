@@ -1,0 +1,4 @@
+python-telegram-bot
+google-generativeai
+numpy
+psycopg2-binary
