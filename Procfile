@@ -1,1 +1,1 @@
-worker: python Tradeeeyyy.V3.py
+worker: bash start.sh
